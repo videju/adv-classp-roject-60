@@ -27,3 +27,7 @@ h1 {
 	
 	
 }
+#plant{
+transition: transform.2s;
+	border: 10px solid #AAAAAA;
+}
